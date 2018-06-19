@@ -2,7 +2,7 @@
 
 # image-rectification-with-omography
 
-A self-made piece of software to study omography and its applications to image rectification 
+A simple piece of software to study omography and its applications to image rectification. 
 
 ### Requirements ###
 
